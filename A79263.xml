@@ -1,0 +1,546 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands fortresse: exemplified in the most renowned and victorious, his Excellency, the Lord Fairfax, Commander in Chiefe of the Parl. Army. / Humbly presented unto his Excellency by E.C. lover of peace.</title>
+            <author>Calver, Edward, fl. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79263</idno>
+            <idno type="STC">Wing C314</idno>
+            <idno type="STC">Thomason E544_14</idno>
+            <idno type="STC">ESTC R206002</idno>
+            <idno type="EEBO-CITATION">99865210</idno>
+            <idno type="PROQUEST">99865210</idno>
+            <idno type="VID">117447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117447)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E544[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands fortresse: exemplified in the most renowned and victorious, his Excellency, the Lord Fairfax, Commander in Chiefe of the Parl. Army. / Humbly presented unto his Excellency by E.C. lover of peace.</title>
+                  <author>Calver, Edward, fl. 1649.</author>
+               </titleStmt>
+               <extent>[4], 8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signed on p.1: Edward Calver.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:117447:1"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:117447:1" rendition="simple:additions"/>
+            <p>ENGLANDS FORTRESSE: <hi>Exemplified</hi> In the moſt Renowned and Victorious, his Excellency, the Lord <hi>Fairfax,</hi> Com<g ref="char:EOLhyphen"/>mander in Chiefe of the Parl. Army.</p>
+            <p>Humbly preſented unto his Excellency by <hi>E. C.</hi> a lover of Peace.</p>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117447:2"/>
+            <pb n="1" facs="tcp:117447:2"/>
+            <head>
+               <hi>Fairfax</hi> Englands Fortreſſe.</head>
+            <head type="sub">To his Excellency the Lord <hi>Fairfax,</hi> Now Lord Generall over all our Engliſh Land Forces.</head>
+            <head type="sub">The humble Petition, and unfained repreſenta<g ref="char:EOLhyphen"/>tion of your poore and moſt unworthy Petitioner, <hi>Edward Calver.</hi>
+            </head>
+            <lg>
+               <l>To whom but you ſhall England Hector cry?</l>
+               <l>Or who but you deſerves a praiſe ſo high?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>T</hi> he ſpeciall act of our ſupremer powers,</l>
+               <l>
+                  <hi>H</hi> ath made you Gen'rall of our Forts and Towers,</l>
+               <l>
+                  <hi>E</hi> ntitling all our Engliſh Forces yours.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>L</hi> et all be ſubject then to your command,</l>
+               <l>
+                  <hi>O</hi> ur Forces ſure are in a faithfull hand;</l>
+               <l>
+                  <hi>R</hi> ight happy ſure then, and may reſt unmov'd,</l>
+               <l>
+                  <hi>D</hi> efended by a Champion ſo approv'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>F eſtus</hi> the Romans. <hi>Fairfax</hi> we muſt cry,</l>
+               <l>
+                  <hi>A</hi> nd far more Noble in your praiſes ſly,</l>
+               <l>
+                  <hi>I</hi> n whom, or through whom, under God, our Land,</l>
+               <l>
+                  <hi>R</hi> eviv'd and cheriſh'd, in ſome hope doth ſtand:</l>
+               <l>
+                  <hi>F airfax</hi> for England then; Saint <hi>George</hi> no more,</l>
+               <l>
+                  <hi>A</hi> nd garlands for you, Trophes, triumphs ſtore</l>
+               <l>
+                  <hi>X</hi> anicall, Aprils fruitfull bloming daies,</l>
+               <l>Shall not: but merit ſhall afford you bayes,</l>
+               <l>And ſound your trumpet of perpetuall praiſe.</l>
+            </lg>
+            <pb n="2" facs="tcp:117447:3"/>
+            <lg>
+               <l>
+                  <hi>H</hi> ow evident your dignity is known</l>
+               <l>
+                  <hi>I</hi> n each reſpect to be by due your own,</l>
+               <l>
+                  <hi>S</hi> ure to the utmoſt parts of earth is blown.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>E</hi> xcellency? moſt excellent and juſt,</l>
+               <l>
+                  <hi>'X</hi> cell'nt care; hath excellency in truſt;</l>
+               <l>
+                  <hi>C</hi> an envy then, or hell it ſelfe repine?</l>
+               <l>
+                  <hi>E</hi> ach ſtar muſt in its proper motion ſhine:</l>
+               <l>
+                  <hi>L</hi> et envy then, and envies brats be ſtill,</l>
+               <l>
+                  <hi>L</hi> et force, if feare will not reſtraine their will.</l>
+               <l>
+                  <hi>E</hi> ach eye is fixt upon you as a ſtarre</l>
+               <l>
+                  <hi>N</hi> ow in Predomination, as you are,</l>
+               <l>
+                  <hi>C</hi> an bad effects from ſuch a cauſe proceed?</l>
+               <l>
+                  <hi>Y</hi> our foes, and ours, Malignant ſuitors ſpeed?</l>
+               <l>No, no, your wiſdome doth take better heed.</l>
+            </lg>
+            <lg>
+               <l>INdeed brave Chieftain and our Champion rare,</l>
+               <l>Now Englands Fortreſſe, and its enemies feare;</l>
+               <l>Your valiant acts, and faithfullneſſe in truſt</l>
+               <l>Already found, ſo teſtifies you juſt,</l>
+               <l>That to ſuſpect you, were it but in thought,</l>
+               <l>Were bad, unjuſt, and far more baſe then ought.</l>
+            </lg>
+            <lg>
+               <l>But out of duty, if I repreſent,</l>
+               <l>Though failingly, my faithfull hearts intent;</l>
+               <l>Your Excellency will not ſure reprove,</l>
+               <l>For want of ſubſtance, honeſt ſignes of love.</l>
+            </lg>
+            <lg>
+               <l>Heavens have advanc'd you to the Battlement</l>
+               <l>Of Englands honour, by a joynt conſent,</l>
+               <l>Where, elevated on the wings of praiſe,</l>
+               <l>You ſit, the admiration of our dayes.</l>
+            </lg>
+            <lg>
+               <l>The Veſſell of our Common-wealth, the Realme</l>
+               <l>Doth in ſuch meaſure render you the Helme,</l>
+               <l>That in this dang'rous reſtleſſe doubtfull Ocean,</l>
+               <l>It doth full often as you ſteere finde motion.</l>
+            </lg>
+            <lg>
+               <l>Nay more, not only mortals waite your pleaſure,</l>
+               <l>But God himſelfe hath truſted you with treaſure,</l>
+               <pb n="3" facs="tcp:117447:3"/>
+               <l>His Servants, Sabbaths, Sacraments, and word,</l>
+               <l>And for your aid, with a victorious ſword,</l>
+               <l>That ſo they may ſo far as it doth ſtand,</l>
+               <l>Your Office, be defended by your hand.</l>
+            </lg>
+            <lg>
+               <l>And as Gods ſervants, which are your delight,</l>
+               <l>Are praying for you, whiles you for them fight;</l>
+               <l>Even ſo your foes, not forraigne, but homebred;</l>
+               <l>Thoſe vipers, which ſo many yeares have fed</l>
+               <l>On their owne mothers bowels, thoſe I meane,</l>
+               <l>Who, through the venting their Malignant ſpleen,</l>
+               <l>Have, and doe yet endeavour to their power,</l>
+               <l>The Kingdome which hath bred them, to devoure;</l>
+               <l>Their eyes are fixed on you with a will</l>
+               <l>They could like <hi>Bazilisks,</hi> by eying kill:</l>
+            </lg>
+            <lg>
+               <l>And what they cannot, wanting force acquire,</l>
+               <l>They will accompliſh, though but in deſire;</l>
+               <l>Though thus to feed on poyſon ſo accurſt,</l>
+               <l>In fine doth make them either mad or burſt.</l>
+            </lg>
+            <lg>
+               <l>Whiles you whoſe valour never yet tooke foyle,</l>
+               <l>Doe feed, and live, and proſper with the ſpoyle,</l>
+               <l>And the more foes, the more your fame doth fill</l>
+               <l>The world with wonder, you prevailing ſtill.</l>
+            </lg>
+            <lg>
+               <l>Againe our Kingdomes foes of other Lands,</l>
+               <l>Perceiving how unſettled England ſtands,</l>
+               <l>They now are working, plotting, ſtraining wit,</l>
+               <l>Who long have waited for a time thus ſit;</l>
+               <l>How now their Forces might united be,</l>
+               <l>To take advantage, whilſt we diſagree,</l>
+               <l>And would attempt it, England to annoy,</l>
+               <l>But only that the Hector of our Troy,</l>
+               <l>Your matchleſſe valour, through the Nations ſpread,</l>
+               <l>Still ſtriks their hearts, and their inventions <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>As one, through Heavens aſſiſting <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, that bides</l>
+               <l>Invincible upon the Mountain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, ſides.</l>
+            </lg>
+            <lg>
+               <l>Againe, our faithfull brethren the Scots,</l>
+               <l>Who have been conſtant, ſpight of many plots:</l>
+               <pb n="2" facs="tcp:117447:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:117447:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:117447:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:117447:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:117447:6"/>
+               <l>Their eyes are ſixed on you as a ſtarre</l>
+               <l>Which moderates the Heathens God of warre,</l>
+               <l>And crownes the earth with plenteouſneſſe and peace;</l>
+               <l>So, from your beames and influence encreaſe,</l>
+               <l>They looke all meanes of love ſhould be protected,</l>
+               <l>All lawfull leaves, and Covenants reſpected,</l>
+               <l>All Treaties, and conditions that conduce</l>
+               <l>To truth, to love, and a confirmed truce</l>
+               <l>Betweene theſe friends of ours, and us ſhall be</l>
+               <l>Preſerved from all violation free.</l>
+            </lg>
+            <lg>
+               <l>Ireland, diſaſtrous Ireland! which hath beane</l>
+               <l>A Countrey fatall to our Countrey men;</l>
+               <l>Me thinks I heare them fighting out their griefe,</l>
+               <l>Or rather ſee them writing for reliefe,</l>
+               <l>Intirely wiſhing that ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me winged motion,</l>
+               <l>Which neither feeles the earth, nor feares the Ocean</l>
+               <l>Would be ſome meanes to eaſe their miſeries,</l>
+               <l>In making you acquainted with their cries.</l>
+            </lg>
+            <lg>
+               <l>They looke upon you as their laſt ſupply,</l>
+               <l>They call upon you with a carefull cry,</l>
+               <l>They waite upon you under God alone,</l>
+               <l>That you would helpe them, or their hopes are gone.</l>
+            </lg>
+            <lg>
+               <l>But which is more and further to your praiſe,</l>
+               <l>And makes you much admired of our dayes:</l>
+               <l>Our Sun, our Soveraigne, with a ſweet aſpect,</l>
+               <l>Did on you as the onely Starre reflect,</l>
+               <l>And having ſhin'd upon your Excellence,</l>
+               <l>Now ſeemes to waite upon you for events.</l>
+            </lg>
+            <lg>
+               <l>Now if Gods hand, which hath our Soveraignes heart</l>
+               <l>Within the ſame, ſhall ſo his ſoule convert,</l>
+               <l>To make him fit, and ready to comply,</l>
+               <l>To eaſe his Kingdomes of their miſery,</l>
+               <l>By ſtating Peace and Truth with the conſent</l>
+               <l>Both of your Lordſhip and our Parliament:</l>
+               <l>I know your Lordſhip would there at rejoice,</l>
+               <l>And would not onely freely give your voice</l>
+               <pb n="5" facs="tcp:117447:6"/>
+               <l>To fetch his highneſſe home with ſpeed and fame;</l>
+               <l>But yeeld your beſt aſſiſtance in the ſame.</l>
+            </lg>
+            <lg>
+               <l>And ſhould Heavens his highneſſe thus inſpire,</l>
+               <l>I never meant the begging his retire,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Houſes do his grace befit,</l>
+               <l>In any thing that I have ſaid or writ.</l>
+            </lg>
+            <lg>
+               <l>But here I leave him in his Makers hand,</l>
+               <l>Intirely p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aying as I have command,</l>
+               <l>That God would make him, if it be his will,</l>
+               <l>A nurſing Father to our Iſraell;</l>
+               <l>That we whom God hath to our King ſubjected,</l>
+               <l>May be in goodneſſe by our King protected.</l>
+            </lg>
+            <lg>
+               <l>As for the viſion which concernes his grace</l>
+               <l>Foreſhowne, and therefore needles in this place:</l>
+               <l>Tis cer aine that I ſaw it in my ſleepe,</l>
+               <l>Which wrought upon me tooke impreſſion deepe,</l>
+               <l>And yet hath ſtrong reflectings on my minde:</l>
+               <l>Yet knowing dreames or viſions of ſuch kinde</l>
+               <l>Are much uncertaine, and no ſubject ſure,</l>
+               <l>To build diſcourſe on that will truſt procure,</l>
+               <l>I leave the ſequell, and do paſſe it over</l>
+               <l>To time, which only can events diſcover.</l>
+            </lg>
+            <lg>
+               <l>Meane time I looke upon you with conſent</l>
+               <l>Of heavens aſſiſtance, and our Parliament;</l>
+               <l>As the eſpeciall inſtrument or Key,</l>
+               <l>Under whoſe keeping all our treaſures lye.</l>
+            </lg>
+            <lg>
+               <l>If you miſcarry we are all undone;</l>
+               <l>But if you proſper as you have begun,</l>
+               <l>We all are made men who have any thought</l>
+               <l>To live like good men, and as Chriſtians ought.</l>
+            </lg>
+            <lg>
+               <l>Doubtles the burden under which you ſtand,</l>
+               <l>You bearing up the Pillars of our Land,</l>
+               <l>And ſafely keeping of the Kingdomes Keys,</l>
+               <l>Of all its doores where any danger lyes,</l>
+               <l>Together with the right and Peace of ſuch</l>
+               <l>As honours vertue, which delights you much:</l>
+               <pb n="6" facs="tcp:117447:7"/>
+               <l>Muſt needes be heavy, and a weight of wonder,</l>
+               <l>Which none but Englands <hi>Atlas</hi> could ſtand under.</l>
+            </lg>
+            <lg>
+               <l>How bleſt is England then may all men ſay?</l>
+               <l>Which though it totters, yet hath ſuch a ſtay</l>
+               <l>As never yet at Englands need hath fail'd,</l>
+               <l>Nor ever will, though never ſo aſſail'd,</l>
+               <l>So long as heaven ſhall with his heart agree</l>
+               <l>In ſaving England from invaſion free.</l>
+            </lg>
+            <lg>
+               <l>Ungratefull England that can harbour then</l>
+               <l>So many Monſters, in the ſhapes of men,</l>
+               <l>As doe endeavour with moſt deadly hate</l>
+               <l>The fall of this upholder of our State.</l>
+            </lg>
+            <lg>
+               <l>Can faithfull truſt thus falſly be betrayd?</l>
+               <l>Can merit be with malice thus repayd?</l>
+               <l>Can curres thus bark, and at their Keepers ſnatch?</l>
+               <l>Can hell its ſelfe, ſuch horrid Monſters hatch?</l>
+            </lg>
+            <lg>
+               <l>Your danger doubtleſſe, doth heerein exceed;</l>
+               <l>But yet againe, which doth your ſafety breed;</l>
+               <l>Where hell to hurt doth moſt its mallice bend,</l>
+               <l>There heavens to help doe mercy moſt extend;</l>
+               <l>And he whom heavens will bleſſe, is not the worſe</l>
+               <l>For <hi>Balacks</hi> threatning, or for <hi>Balams</hi> curſe.</l>
+            </lg>
+            <lg>
+               <l>This in your perſon, doth at large appeare;</l>
+               <l>Heavens bleſſings on you, like the Sun, ſhine cleere;</l>
+               <l>And this indeed, remaines no doubt the ſhield</l>
+               <l>Whereby your Lordſhip, and our Lands upheld.</l>
+            </lg>
+            <lg>
+               <l>Oh! then dull England doe not thou neglect,</l>
+               <l>Or you the people that have a reſpect</l>
+               <l>To any goodneſſe, but with melting eyes,</l>
+               <l>See, and acknowledge where your ſafety lyes,</l>
+               <l>And let your praiſes with your prayers joyne,</l>
+               <l>That theſe our bleſſings never may decline.</l>
+            </lg>
+            <lg>
+               <l>And you the bleſſed bleſſing of our dayes,</l>
+               <l>Whom God doth honour, and we ought to praiſe;</l>
+               <l>Feare not the faces of your mortall foes</l>
+               <l>Whom God immortall helps you to oppoſe.</l>
+            </lg>
+            <pb n="7" facs="tcp:117447:7"/>
+            <lg>
+               <l>So long as in his quarrell you perſiſt,</l>
+               <l>There is no queſtion but you ſhall be bleſt,</l>
+               <l>For where his cauſe can no way be upheld</l>
+               <l>But by the weapon, whereby blood is ſpill'd;</l>
+               <l>The guilt of bloodſhed cannot there remaine,</l>
+               <l>Gods glory being greater then the ſtaine;</l>
+               <l>The ſword thus wounding, being in the hand</l>
+               <l>Of him who thereto hath a juſt command.</l>
+            </lg>
+            <lg>
+               <l>As in mens bodies, as men doe relate,</l>
+               <l>Are ſome diſeaſes which are deſperate</l>
+               <l>Without blood letting, and no hopes of health,</l>
+               <l>So in the body of the Common-wealth,</l>
+               <l>Are ſuch ill humours and inflamed blood</l>
+               <l>In divers Members, as tis underſtood,</l>
+               <l>Unleſſe effuſion of the ſame be wrought,</l>
+               <l>The whole eſtate is into danger brought.</l>
+               <l>But heere now wiſdome muſt with skill be had,</l>
+               <l>That what ſhould cure the Kingdome proves not bad,</l>
+               <l>The ſalve ſhould worke the remedy, increaſe</l>
+               <l>The ſore, and ſo grow worſe then the diſeaſe;</l>
+               <l>For as where blood is thus corrupted found,</l>
+               <l>Too little may be taken; ſo the wound,</l>
+               <l>Through want of judgement, may be made ſo wide,</l>
+               <l>And bleed ſo much, as on the other ſide,</l>
+               <l>Unto as much diſtemper may relate,</l>
+               <l>By weakening and ſo hazarding the State.</l>
+            </lg>
+            <lg>
+               <l>But heere your wiſdome hath at full appear'd,</l>
+               <l>And to the world your innocency cleer'd,</l>
+               <l>You ever being ready to incline</l>
+               <l>To tearmes of peace, where it was fit to joyne.</l>
+            </lg>
+            <lg>
+               <l>Which to all good men doth I hope impart</l>
+               <l>Sufficient warrant, that you have a heart</l>
+               <l>Which is as ready, and as reall yet</l>
+               <l>For tearmes of peace, upon conditions ſit,</l>
+               <l>As ever harbourd in a noble breaſt,</l>
+               <l>Or Chriſtian of diſcretion can requeſt.</l>
+            </lg>
+            <pb n="8" facs="tcp:117447:8"/>
+            <lg>
+               <l>But till corrupted boyling blood of ſuch</l>
+               <l>As yet endanger Englands ſafety much,</l>
+               <l>Be either purg'd, or by inciſion made,</l>
+               <l>Be drawne away, that ſo the ſore may fade,</l>
+               <l>There is no reaſon you ſhould ſtay your hand,</l>
+               <l>Who thus are the Phyſitian of the Land.</l>
+            </lg>
+            <lg>
+               <l>Ride on and proſper then brave Hector ſtill,</l>
+               <l>And all that hate you curbe them at your will,</l>
+               <l>And let all vertues enemies, and thoſe</l>
+               <l>That ſeeke your downefall, be ſubdued foes.</l>
+            </lg>
+            <lg>
+               <l>The game is Englands, but the Garland yours:</l>
+               <l>The duty mine to help to gather flowers</l>
+               <l>To deck your head with the eternall bayes</l>
+               <l>Of your deſerved everlaſting praiſe.</l>
+            </lg>
+            <lg>
+               <l>And thus brave worthy ceaſing to intrude,</l>
+               <l>Or preſume further in a forme ſo rude,</l>
+               <l>As building on your goodneſſe I begun,</l>
+               <l>So begging your forgivneſſe, I have done.</l>
+            </lg>
+            <lg>
+               <l>Nor had I once more at your foot appear'd,</l>
+               <l>But that ſome ſcruples might be thereby clear'd,</l>
+               <l>That ſo your Lordſhip may not him ſuſpect,</l>
+               <l>Whoſe pen for vertue ever was direct.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
